@@ -45,20 +45,14 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PDSB001&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38f2ff&text_color=c9d1d9&icon_color=7b2ff7&border_radius=12" alt="stats"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PDSB001&theme=tokyonight&hide_border=true&background=0d1117&ring=38f2ff&fire=38f2ff&currStreakLabel=7b2ff7&border_radius=12" alt="streak"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PDSB001&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38f2ff&text_color=c9d1d9&icon_color=7b2ff7&border_radius=12" alt="stats"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=PDSB001&theme=tokyonight&hide_border=true&background=0d1117&ring=38f2ff&fire=38f2ff&currStreakLabel=7b2ff7&border_radius=12" alt="streak"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=PDSB001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38f2ff&text_color=c9d1d9&border_radius=12" alt="top langs"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=PDSB001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38f2ff&text_color=c9d1d9&border_radius=12" alt="top langs"/>
 
 </div>
 
 <br/>
-
-### 📈 贡献热力图
-
-<div align="center">
-<img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=PDSB001&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=38f2ff&point=7b2ff7&area=true&area_color=1b2a5e&radius=12" alt="activity graph"/>
-</div>
 
 <br/>
 
@@ -71,14 +65,14 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/PDSB001/MiAirX">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PDSB001&repo=MiAirX&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38f2ff&text_color=c9d1d9&icon_color=7b2ff7&border_radius=12"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=PDSB001&repo=MiAirX&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38f2ff&text_color=c9d1d9&icon_color=7b2ff7&border_radius=12"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/PDSB001/CustodySim">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PDSB001&repo=CustodySim&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38f2ff&text_color=c9d1d9&icon_color=7b2ff7&border_radius=12"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=PDSB001&repo=CustodySim&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38f2ff&text_color=c9d1d9&icon_color=7b2ff7&border_radius=12"/>
 </a>
 
 </td>
